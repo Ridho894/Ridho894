@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hello there, I'm Ridho 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Muhamad Ridho Budikusuma 👋</b></h1>
 </p>
 
 <p>
@@ -17,7 +17,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="300px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Systems Engineer Specialist at Infosys
 - 🔭 I’m currently working on Carakan Sadhana Dirgantara :grin:
@@ -25,7 +25,7 @@
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2021 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: [Let's get in touch!](https://www.instagram.com/_ridho894/?hl=en)
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
@@ -69,7 +69,7 @@
 
   <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Ridho894&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Ridho894&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Ridho894&show_icons=true&hide_border=true&theme=radical&title_color=fff" width="37%" alt="Ridho's Top Languages">
 
 
 
@@ -143,22 +143,22 @@
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 <!--START_SECTION_LANGUAGE:readme-info-->
-**My 💖 Programming Languages Javascript** 
+<!-- **My 💖 Programming Languages Javascript** 
 
 | | | | |
 | --- | --- | --- | --- |
 |JavaScript                   |7 repos|            ![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|55.56%|
 |TypeScript                     |2 repos|             ![](https://via.placeholder.com/156x22/000000/000000?text=+)![](https://via.placeholder.com/244x22/b8b8b8/b8b8b8?=text=+)|38.89%|
 |Vue               |3 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.56%|
-| | | | |
+| | | | | -->
 
 <!--END_SECTION_LANGUAGE:readme-info-->
 
 <br>
-
+<!-- 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" /> -->
 
 <!--[website]: -->
 [twitter]: https://twitter.com/sumanth_98?s=09
