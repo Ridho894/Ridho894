@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
+  <h4 align="center"><b>"Little Talk Much Work"</b></h4>
 </p>
 
 <p align="center">
