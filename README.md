@@ -104,25 +104,25 @@
 <!--END_SECTION:activity-->
 
 <br>
-
-### 📊 &nbsp; STATS
+<!-- 
+### 📊 &nbsp; STATS -->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 1 million Lines of Code ✍️**
+<!-- **From Hello World I have written 1 million Lines of Code ✍️** -->
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
-**I'm an early 🐤** 
-
+<!-- **I'm an early 🐤**  -->
+<!-- 
 | | | | |
 | --- | --- | --- | --- |
 |🌞 Morning                |5 commits         |![](https://via.placeholder.com/112x22/000000/000000?text=+)![](https://via.placeholder.com/288x22/b8b8b8/b8b8b8?=text=+)|27.5%|
 |🌆 Daytime                |3 commits         |![](https://via.placeholder.com/148x22/000000/000000?text=+)![](https://via.placeholder.com/252x22/b8b8b8/b8b8b8?=text=+)|36.67%|
 |🌃 Evening                |2 commits         |![](https://via.placeholder.com/124x22/000000/000000?text=+)![](https://via.placeholder.com/276x22/b8b8b8/b8b8b8?=text=+)|30.63%|
 |🌙 Night                  |12 commits          |![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|5.21%|
-| | | | |
+| | | | | -->
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
