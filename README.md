@@ -22,8 +22,8 @@
 ### I am a Frontend Developer and also UI/UX Designer
 - 🔭 I’m currently working on Carakan Sadhana Dirgantara :grin:
 - 🌱 I’m currently learning Typescript programming language.
-- 👯 I’m looking to collaborate with other Developers :wink:
-<!-- - 🥅 2021 Goals: Contribute to Open Source projects --!>
+- 👯 I’m looking to collaborate with other Developers :wink: 
+- 🥅 2021 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.instagram.com/_ridho894/?hl=en)
 - 🧗 I try to: Go beyond and push the bounds
