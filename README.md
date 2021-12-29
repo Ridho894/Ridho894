@@ -20,10 +20,10 @@
 <img align="right" height="300px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Frontend Developer and also UI/UX Designer
-- 🔭 I’m currently working on Carakan Sadhana Dirgantara :grin:
+<!-- - 🔭 I’m currently working on Carakan Sadhana Dirgantara :grin: -->
 - 🌱 I’m currently learning Typescript programming language.
 - 👯 I’m looking to collaborate with other Developers :wink: 
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.instagram.com/_ridho894/?hl=en)
 - 🧗 I try to: Go beyond and push the bounds
@@ -97,8 +97,8 @@
 <!-- 1. ❌ Closed PR [#1](https://github.com/codeSTACKr/goal-manager-react/pull/1) in [codeSTACKr/goal-manager-react](https://github.com/codeSTACKr/goal-manager-react)
 2. 💪 Opened PR [#1](https://github.com/t-satwik/Python-programs/pull/1) in [t-satwik/Python-programs](https://github.com/t-satwik/Python-programs)
 3. 🗣 Commented on [#143](https://github.com/dwyl/start-here/issues/143) in [dwyl/start-here](https://github.com/dwyl/start-here) -->
-1. Contribute in [PB PASI MOBILE](https://github.com/carakanid/pb-pasi-mobile) Application
-2. Contribute in [SELLON](https://github.com/carakanid/sellon) Application
+1. Build Auction Website with CodeIgniter(https://github.com/Ridho894/Auction-Codeigniter)
+2. Contribute in my [AL-QURAN](https://github.com/Ridho894/alquran-app) Application
 3. Build [GO FOOD](https://github.com/Ridho894/gofood-clone-app) Clone Application
 4. And I also often make websites using javascript or typescript
 <!--END_SECTION:activity-->
