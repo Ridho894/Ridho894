@@ -17,6 +17,8 @@
 
 <br>
 
+### Support me on :
+- [Trakteer](https://trakteer.id/ridho894/tip)
 <img align="right" height="300px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Frontend Developer and also UI/UX Designer
