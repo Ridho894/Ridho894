@@ -15,9 +15,9 @@
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
-| kakido.vercel.app | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;docs.rdho.dev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| kakido.vercel.app | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;docs-rd.vercel.app&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |:-:|:-:|
-|<a href="https://kakido.vercel.app/"><img src="index.png" alt="Screenshot of kakido.vercel.app" width="400"></a><br />Find my projects and writings here<br /><br /><a href="https://kakido.vercel.app/">**Visit**</a> | <a href="https://docs.rdho.dev/"><img src="" alt="Screenshot of docs.rdho.dev" width="400"></a><br />Personal development practices<br /><br /><a href="">**On Progress:)**</a> |
+|<a href="https://kakido.vercel.app/"><img src="https://github.com/Ridho894/portofolio/blob/main/public/thumbnail.png" alt="Screenshot of kakido.vercel.app" width="400"></a><br />Find my projects and writings here<br /><br /><a href="https://kakido.vercel.app/">**Visit**</a> | <a href="https://docs.rdho.dev/"><img src="https://github.com/Ridho894/docs/blob/main/public/thumbnail.png" alt="Screenshot of docs.rdho.dev" width="400"></a><br />Personal development practices<br /><br /><a href="https://docs-rd.vercel.app/">**Visit**</a> |
 
 <br>
 
