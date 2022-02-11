@@ -104,7 +104,7 @@
 2. 💪 Opened PR [#1](https://github.com/t-satwik/Python-programs/pull/1) in [t-satwik/Python-programs](https://github.com/t-satwik/Python-programs)
 3. 🗣 Commented on [#143](https://github.com/dwyl/start-here/issues/143) in [dwyl/start-here](https://github.com/dwyl/start-here) -->
 1. Build Instagram Clone with [Next.js](https://github.com/Ridho894/instagram-clone)
-2. Build [AL-QURAN Application](https://github.com/Ridho894/alquran-app) Application
+2. Build [AL-QURAN](https://github.com/Ridho894/alquran-app) Application
 3. Learning [Next.js](https://nextjs.org/)
 4. Build [GO FOOD](https://github.com/Ridho894/gofood-clone-app) Clone Application
 5. And I also often make websites using Javascript or Typescript
