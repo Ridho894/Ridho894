@@ -15,9 +15,9 @@
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
-| rd-portofolio.vercel.app | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rd-documentation.vercel.app&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- | rd-portofolio.vercel.app | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rd-documentation.vercel.app&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |:-:|:-:|
-|<a href="https://rd-portofolio.vercel.app/"><img src="./thumbnail-porto.png" alt="Screenshot of rd-portofolio.vercel.app" width="400"></a><br />Find my projects and writings here<br /><br /><a href="https://rd-portofolio.vercel.app/">**Visit**</a> | <a href="https://rd-documentation.vercel.app/"><img src="./thumbnail-docs.png" alt="Screenshot of rd-documentation" width="400"></a><br />Personal development practices<br /><br /><a href="https://rd-documentation.vercel.app/">**Visit**</a> |
+|<a href="https://rd-portofolio.vercel.app/"><img src="./thumbnail-porto.png" alt="Screenshot of rd-portofolio.vercel.app" width="400"></a><br />Find my projects and writings here<br /><br /><a href="https://rd-portofolio.vercel.app/">**Visit**</a> | <a href="https://rd-documentation.vercel.app/"><img src="./thumbnail-docs.png" alt="Screenshot of rd-documentation" width="400"></a><br />Personal development practices<br /><br /><a href="https://rd-documentation.vercel.app/">**Visit**</a> | -->
 
 <br>
 
