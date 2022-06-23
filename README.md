@@ -18,6 +18,6 @@ Also, let's connect on twitter! Feel free to dm me for discussion!
 
 <div>
   <img height="154" src="https://github-readme-stats.vercel.app/api?username=Ridho894&show_icons=true&theme=react&count_private=true&hide=contribs" />
-  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridho894&layout=compact&theme=react&hide=php&langs_count=6" />
+  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrwitek&layout=compact&theme=react&hide=php&langs_count=6" />
 <!--   <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ridho894&layout=compact&theme=react&langs_count=6" /> -->
 </div>
