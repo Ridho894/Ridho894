@@ -10,8 +10,8 @@ You can call me **Ridho**.
 Also, let's connect on twitter! Feel free to dm me for discussion!
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/kakkido.svg?style=social&label=Follow%20%40kakkido)](https://twitter.com/Kakkido)
-![Profile views](https://komarev.com/ghpvc/?username=theodorusclarence&color=gray)
-![](https://hit.yhype.me/github/profile?user_id=55318172)
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=theodorusclarence&color=gray)
+![](https://hit.yhype.me/github/profile?user_id=55318172) -->
 
 
 ## Statistics
