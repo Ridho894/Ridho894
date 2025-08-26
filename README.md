@@ -5,7 +5,7 @@ I'm a passionate Full Stack Developer who loves building clean, scalable, and ef
 ### 🛠️ Tech Stack & Tools
 - **Frontend:** React, Next.js, Angular, Tailwind CSS, Shadcn UI
 - **Backend:** Laravel, Node.js, NestJS, Express, GraphQL, REST
-- **Database:** PostgreSQL, MongoDB, Prisma, Mongoose, MariaDB
+- **Database:** PostgreSQL, MongoDB, MariaDB
 - **Others:** Docker, GitHub Actions, Vercel
 
 ---
